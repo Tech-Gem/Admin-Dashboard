@@ -1,0 +1,1 @@
+export { default as BidView } from './bid-viw';

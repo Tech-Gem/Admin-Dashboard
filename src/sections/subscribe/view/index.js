@@ -1,0 +1,1 @@
+export { default as SubscribeView } from './suscribe-view';
